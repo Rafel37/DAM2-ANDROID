@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RPC_Examen22_oct</string>
+    <string name="mensaje_todos">No hay nada introducido</string>
+    <string name="mensaje_nombre">No se ha introducido nombre </string>
+    <string name="mensaje_telefono">No se ha introducido apellido</string>
+    <string name="mensaje_numero">No se ha introducido telefono</string>
+    <string name="mensaje_genero">No se ha introducido genero</string>
+</resources>

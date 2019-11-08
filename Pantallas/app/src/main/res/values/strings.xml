@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pantallas</string>
+
+
+    <string name="mensaje">ERROR!! \nNo hay nada introducido.</string>
+
+    <string name="mensajeNombre">ERROR!! \nNo hay nombre introducido.</string>
+    <string name="mensajeApellido">ERROR!! \nNo hay apellido introducido.</string>
+    <string name="mensajeTelefono">ERROR!! \nNo hay telefono introducido.</string>
+
+
+    <string name="mensajeNombreApellido">ERROR!! \nNo hay nombre ni apellido introducido.</string>
+    <string name="mensajeNombreTelefono">ERROR!! \nNo hay nombre ni telefono introducido.</string>
+
+    <string name="mensajeApellidoTelefono">ERROR!! \nNo hay apellido ni telefono introducido.</string>
+
+
+
+</resources>

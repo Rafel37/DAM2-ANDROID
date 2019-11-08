@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica WebApiJSON</string>
+
+    <string name="bd">Base de datos</string>
+    <string name="ver">Ver</string>
+    <string name="insertar">Insertar</string>
+    <string name="actualizar">Actualizar</string>
+
+    <string name="nombre">Introduce Nombre</string>
+    <string name="apellidos">Introduce Apellidos</string>
+    <string name="curso">Introduce Curso</string>
+    <string name="correo">Introduce Correo</string>
+    <string name="contrasena">Introduce Contraseña</string>
+    <string name="insertarUs">Insertar Usuarios</string>
+    <string name="conoc">Conocimientos Previos</string>
+
+</resources>

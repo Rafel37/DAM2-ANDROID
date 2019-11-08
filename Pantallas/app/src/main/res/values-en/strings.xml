@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Pantallas</string>
+
+
+    <string name="mensaje">ERROR!! \nNo data introduced.</string>
+
+    <string name="mensajeNombre">ERROR!! \nNo name introduced.</string>
+    <string name="mensajeApellido">ERROR!! \nNo surname introduced.</string>
+    <string name="mensajeTelefono">ERROR!! \nNo phone number introduced.</string>
+
+
+    <string name="mensajeNombreApellido">ERROR!! \nNo name or surname intruduced.</string>
+    <string name="mensajeNombreTelefono">ERROR!! \nNo name or phone number introduced.</string>
+
+    <string name="mensajeApellidoTelefono">ERROR!! \nNo surname or thelepone numer introduced.</string>
+
+</resources>

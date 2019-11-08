@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RPC_19_11_2019</string>
+    
+    <string-array name="localidad">
+        <item> Madrid</item>
+        <item> Majadahonda</item>
+        <item> Pozuelo</item>
+        <item> Getafe</item>
+        <item> Alcobendas</item>
+    </string-array>
+</resources>

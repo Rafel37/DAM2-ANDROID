@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PMDM</string>
+    <string name="mensaje">No ha introducido nada</string>
+    <string name="mensaje1">No ha introducido ningun numero</string>
+    <string name="mensaje2">Faltan datos</string>
+    <string name="nodecimales">El Factorial es solo para enteros</string>
+    <string name="faltanumero">Pon primero el numero</string>
+    <string name="botonmenu">Volver al menu</string>
+    <string name="mensaje3">Max y Min invertidos</string>
+    <string name="SATV1">Primera pantalla</string>
+    <string name="AAT">Generador de numeros</string>
+    <string name="Nmax">Nº Max</string>
+    <string name="Nmin">Nº Min</string>
+    <string name="Nnum">Numeros</string>
+    <string name="Nres">Resultado</string>
+    <string name="Bgen">Generar</string>
+    <string name="Einp">Introduce numero</string>
+</resources>

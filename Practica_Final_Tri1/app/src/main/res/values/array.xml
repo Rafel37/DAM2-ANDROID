@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="posturas">
+        <item>@drawable/hayou</item>
+        <item>@drawable/punch</item>
+        <item>@drawable/patada</item>
+    </array>
+
+    <array name="fondos">
+        <item>@drawable/fondo_blanka</item>
+        <item>@drawable/fondo_dalsim</item>
+        <item>@drawable/fondo_guille</item>
+        <item>@drawable/fondo_honda</item>
+        <item>@drawable/fondo_ken</item>
+        <item>@drawable/fondo_ryu</item>
+        <item>@drawable/fondo_zang</item>
+    </array>
+
+    <array name="d1">
+        <item>@drawable/pelicula_12</item>
+        <item>@drawable/pelicula_36</item>
+        <item>@drawable/pelicula_76</item>
+        <item>@drawable/pelicula_21</item>
+    </array>
+
+    <array name="d2">
+        <item>@drawable/pelicula_08</item>
+        <item>@drawable/pelicula_39</item>
+        <item>@drawable/pelicula_46</item>
+        <item>@drawable/pelicula_22</item>
+        <item>@drawable/pelicula_81</item>
+        <item>@drawable/pelicula_29</item>
+    </array>
+
+    <string-array name="d3">
+        <item>@drawable/pelicula_95</item>
+        <item>@drawable/pelicula_11</item>
+        <item>@drawable/pelicula_09</item>
+        <item>@drawable/pelicula_37</item>
+        <item>@drawable/pelicula_55</item>
+        <item>@drawable/pelicula_04</item>
+        <item>@drawable/pelicula_19</item>
+        <item>@drawable/pelicula_83</item>
+    </string-array>
+
+    <array name="d4">
+        <item>@drawable/pelicula_25</item>
+        <item>@drawable/pelicula_27</item>
+        <item>@drawable/pelicula_15</item>
+        <item>@drawable/pelicula_05</item>
+        <item>@drawable/pelicula_97</item>
+        <item>@drawable/pelicula_100</item>
+        <item>@drawable/pelicula_28</item>
+        <item>@drawable/pelicula_45</item>
+        <item>@drawable/pelicula_73</item>
+        <item>@drawable/pelicula_01</item>
+    </array>
+
+    <array name="todas">
+        <item>@drawable/pelicula_01</item>
+        <item>@drawable/pelicula_02</item>
+        <item>@drawable/pelicula_03</item>
+        <item>@drawable/pelicula_04</item>
+        <item>@drawable/pelicula_05</item>
+        <item>@drawable/pelicula_06</item>
+        <item>@drawable/pelicula_07</item>
+        <item>@drawable/pelicula_08</item>
+        <item>@drawable/pelicula_09</item>
+        <item>@drawable/pelicula_10</item>
+        <item>@drawable/pelicula_11</item>
+        <item>@drawable/pelicula_12</item>
+        <item>@drawable/pelicula_13</item>
+        <item>@drawable/pelicula_14</item>
+        <item>@drawable/pelicula_15</item>
+        <item>@drawable/pelicula_16</item>
+        <item>@drawable/pelicula_17</item>
+        <item>@drawable/pelicula_18</item>
+        <item>@drawable/pelicula_19</item>
+        <item>@drawable/pelicula_20</item>
+        <item>@drawable/pelicula_21</item>
+        <item>@drawable/pelicula_22</item>
+        <item>@drawable/pelicula_23</item>
+        <item>@drawable/pelicula_24</item>
+        <item>@drawable/pelicula_25</item>
+        <item>@drawable/pelicula_26</item>
+        <item>@drawable/pelicula_27</item>
+        <item>@drawable/pelicula_28</item>
+        <item>@drawable/pelicula_29</item>
+        <item>@drawable/pelicula_30</item>
+        <item>@drawable/pelicula_31</item>
+        <item>@drawable/pelicula_32</item>
+        <item>@drawable/pelicula_33</item>
+        <item>@drawable/pelicula_34</item>
+        <item>@drawable/pelicula_35</item>
+        <item>@drawable/pelicula_36</item>
+        <item>@drawable/pelicula_37</item>
+        <item>@drawable/pelicula_38</item>
+        <item>@drawable/pelicula_39</item>
+        <item>@drawable/pelicula_40</item>
+        <item>@drawable/pelicula_41</item>
+        <item>@drawable/pelicula_42</item>
+        <item>@drawable/pelicula_43</item>
+        <item>@drawable/pelicula_44</item>
+        <item>@drawable/pelicula_45</item>
+        <item>@drawable/pelicula_46</item>
+        <item>@drawable/pelicula_47</item>
+        <item>@drawable/pelicula_48</item>
+        <item>@drawable/pelicula_49</item>
+        <item>@drawable/pelicula_50</item>
+        <item>@drawable/pelicula_51</item>
+        <item>@drawable/pelicula_52</item>
+        <item>@drawable/pelicula_53</item>
+        <item>@drawable/pelicula_54</item>
+        <item>@drawable/pelicula_55</item>
+        <item>@drawable/pelicula_56</item>
+        <item>@drawable/pelicula_57</item>
+        <item>@drawable/pelicula_58</item>
+        <item>@drawable/pelicula_59</item>
+        <item>@drawable/pelicula_60</item>
+        <item>@drawable/pelicula_61</item>
+        <item>@drawable/pelicula_62</item>
+        <item>@drawable/pelicula_63</item>
+        <item>@drawable/pelicula_64</item>
+        <item>@drawable/pelicula_65</item>
+        <item>@drawable/pelicula_66</item>
+        <item>@drawable/pelicula_67</item>
+        <item>@drawable/pelicula_68</item>
+        <item>@drawable/pelicula_69</item>
+        <item>@drawable/pelicula_70</item>
+        <item>@drawable/pelicula_71</item>
+        <item>@drawable/pelicula_72</item>
+        <item>@drawable/pelicula_73</item>
+        <item>@drawable/pelicula_74</item>
+        <item>@drawable/pelicula_75</item>
+        <item>@drawable/pelicula_76</item>
+        <item>@drawable/pelicula_77</item>
+        <item>@drawable/pelicula_78</item>
+        <item>@drawable/pelicula_79</item>
+        <item>@drawable/pelicula_80</item>
+        <item>@drawable/pelicula_81</item>
+        <item>@drawable/pelicula_82</item>
+        <item>@drawable/pelicula_83</item>
+        <item>@drawable/pelicula_84</item>
+        <item>@drawable/pelicula_85</item>
+        <item>@drawable/pelicula_86</item>
+        <item>@drawable/pelicula_87</item>
+        <item>@drawable/pelicula_88</item>
+        <item>@drawable/pelicula_89</item>
+        <item>@drawable/pelicula_90</item>
+        <item>@drawable/pelicula_91</item>
+        <item>@drawable/pelicula_92</item>
+        <item>@drawable/pelicula_93</item>
+        <item>@drawable/pelicula_94</item>
+        <item>@drawable/pelicula_95</item>
+        <item>@drawable/pelicula_96</item>
+        <item>@drawable/pelicula_97</item>
+        <item>@drawable/pelicula_98</item>
+        <item>@drawable/pelicula_99</item>
+        <item>@drawable/pelicula_100</item>
+    </array>
+
+</resources>

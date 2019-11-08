@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Dinamico"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.2">
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:id="@+id/botondinamico1"
+            android:text="FRAGMENT 1"
+            android:textSize="15sp"
+            style="@style/Base.TextAppearance.AppCompat.Widget.Button.Colored"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:id="@+id/buscar"
+            android:text="BUSCAR"
+            android:textSize="15sp"
+            style="@style/Base.TextAppearance.AppCompat.Widget.Button.Colored"
+            />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3"
+            android:id="@+id/botondinamico2"
+            android:text="FRAGMENT 2"
+            android:textSize="15sp"
+            style="@style/Base.TextAppearance.AppCompat.Widget.Button.Colored"
+            />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.8"
+        android:id="@+id/frameDinamico"
+        >
+
+    </FrameLayout>
+
+</LinearLayout>

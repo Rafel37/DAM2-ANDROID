@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    metemos un item con los elementos que qeremos meter al menu
+    asignamos un id a cada uno
+    **vamos a completar el main_content que hemos declarado en el activity main
+    -->
+    <item android:title="LIGAS">
+        <menu>
+            <item
+                android:title="La Liga"
+                android:id="@+id/menu_liga"
+                />
+            <item
+                android:title="Adelante"
+                android:id="@+id/menu_adelante"
+                />
+            <item
+                android:title="Sin Liga"
+                android:id="@+id/menu_sinLiga"
+                />
+        </menu>
+    </item>
+
+</menu>

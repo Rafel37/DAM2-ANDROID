@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">PMDM</string>
+    <string name="mensaje">No data input</string>
+    <string name="mensaje1">You don`t input any number</string>
+    <string name="mensaje2">Fucking Normies</string>
+    <string name="mensaje3">Max and Min have been inverted</string>
+    <string name="nodecimales">The Factorial only Integers</string>
+    <string name="faltanumero">Put first the number</string>
+    <string name="botonmenu">Back to the menu</string>
+    <string name="SATV1">First Screen</string>
+    <string name="AAT">Generator of numbers</string>
+    <string name="Nmax">Nº Max</string>
+    <string name="Nmin">Nº Min</string>
+    <string name="Nnum">Numbers</string>
+    <string name="Nres">Results</string>
+    <string name="Bgen">Generate</string>
+    <string name="Einp">Input number</string>
+</resources>

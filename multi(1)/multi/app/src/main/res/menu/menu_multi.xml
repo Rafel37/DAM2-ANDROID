@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="plataforma">
+        <menu>
+            <item
+                android:id="@+id/cine"
+                android:icon="@drawable/film"
+                android:title="Cine" />
+            <item
+                android:id="@+id/series"
+                android:icon="@drawable/serie"
+                android:title="Series" />
+            <item
+                android:id="@+id/musica"
+                android:icon="@drawable/music"
+                android:title="Música" />
+        </menu>
+    </item>
+    <item android:title="Busqueda">
+        <menu>
+            <item
+                android:id="@+id/busqueda"
+                android:title="busqueda"
+                app:actionViewClass="android.widget.SearchView" />
+        </menu>
+    </item>
+
+</menu>
