@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.joseg.ejemplo">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Intents.EAEjemplo" />
+        <activity android:name=".Intents.SegundaActivity" />
+        <activity android:name=".Intents.TerceraActivity" />
+        <activity android:name=".MenuActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Intents.GenerarAleatorios" />
+        <activity android:name=".Intents.Calculadora" />
+        <activity android:name=".Elementos.ElementosActivity" />
+        <activity android:name=".Intents.PrimosActivity" />
+        <activity android:name=".Intents.Cartas.CartasActivity" />
+        <activity android:name=".Intents.Cartas.JuegoActivity" />
+        <activity android:name=".Elementos.ElementosavActivity" />
+        <activity android:name=".Intents.ListaActivity" />
+        <activity android:name=".Intents.PracticaLista" />
+        <activity android:name=".Intents.PracticaListaDatos" />
+        <activity android:name=".Intents.RecyclerViewActivity" />
+        <activity android:name=".Intents.SplashActivity" />
+        <activity android:name=".Intents.EjemploRecycler" />
+        <activity android:name=".Intents.PracticaRecycler" />
+        <activity android:name=".Intents.MenuPractica" />
+        <activity android:name=".Intents.CardActivity" />
+        <activity android:name=".Intents.SegundaCard"></activity>
+    </application>
+
+</manifest>

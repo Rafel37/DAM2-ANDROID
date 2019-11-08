@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.joseg.tema3">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".EjerciciosClase.DialogActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MenuActivity" />
+        <activity android:name=".EjerciciosClase.Dialogos.DialogoPersonalizado" />
+        <activity android:name=".EjerciciosClase.LoginRegisActivity" />
+        <activity android:name=".EjerciciosClase.Dialogos.DialogRegistrar" />
+        <activity android:name=".EjerciciosClase.Dialogos.DialogLogin" />
+        <activity android:name=".EjerciciosClase.UsuarioLogueado" />
+        <activity android:name=".EjerciciosClase.Dialogos.DialogoSpinner" />
+        <activity android:name=".EjerciciosClase.MenusActivity"></activity>
+    </application>
+
+</manifest>

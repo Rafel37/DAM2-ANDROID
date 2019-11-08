@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SUMA</string>
+    <string name="palabra_b1">Boton1</string>
+
+    <string name="mensaje">ERROR!! \nNo se ha introducido ningun numero</string>
+    <string name="mensaje1">ERROR!! \nNo se ha introducido numero 1</string>
+    <string name="mensaje2">ERROR!! \nNo se ha introducido numero 2</string>
+
+</resources>

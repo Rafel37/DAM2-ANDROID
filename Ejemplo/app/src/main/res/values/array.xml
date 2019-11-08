@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="numeros">
+        <item>4</item>
+        <item>8</item>
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>5</item>
+    </integer-array>
+
+    <array name="cartas">
+        <item>@drawable/c1</item>
+        <item>@drawable/c2</item>
+        <item>@drawable/c3</item>
+        <item>@drawable/c4</item>
+        <item>@drawable/c5</item>
+        <item>@drawable/c6</item>
+        <item>@drawable/c7</item>
+        <item>@drawable/c8</item>
+        <item>@drawable/c9</item>
+        <item>@drawable/c10</item>
+        <item>@drawable/c11</item>
+        <item>@drawable/c12</item>
+        <item>@drawable/c13</item>
+    </array>
+
+    <string-array name="Ligas">
+        <item>Liga Santander</item>
+        <item>Premier</item>
+        <item>Calcio</item>
+    </string-array>
+
+    <array name="EquiposLigas">
+        <item>@array/España</item>
+        <item>@array/Inglaterra</item>
+        <item>@array/Italia</item>
+    </array>
+
+    <string-array name="España">
+        <item>Madrid</item>
+        <item>Barcelona</item>
+        <item>Atleti</item>
+    </string-array>
+    <string-array name="Inglaterra">
+        <item>City</item>
+        <item>Manchester</item>
+        <item>Chelsea</item>
+    </string-array>
+    <string-array name="Italia">
+        <item>Questodipesto</item>
+        <item>Peperoni</item>
+        <item>Mozzarela</item>
+    </string-array>
+
+</resources>

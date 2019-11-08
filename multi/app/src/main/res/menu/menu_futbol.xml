@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="plataforma">
+        <menu>
+            <item
+                android:id="@+id/liga"
+                android:icon="@drawable/spain"
+                android:title="La liga" />
+            <item
+                android:id="@+id/champions"
+                android:icon="@drawable/champion"
+                android:title="Champions League" />
+            <item
+                android:id="@+id/muldial"
+                android:icon="@drawable/worldcup"
+                android:title="Muldial" />
+        </menu>
+    </item>
+    <item android:title="Busqueda">
+        <menu>
+            <item
+                android:id="@+id/busqueda"
+                android:title="busqueda"
+                app:actionViewClass="android.support.v7.widget.SearchView" />
+        </menu>
+    </item>
+
+</menu>

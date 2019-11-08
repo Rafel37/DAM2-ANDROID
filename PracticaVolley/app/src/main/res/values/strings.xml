@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica Volley</string>
+
+    <string name="futbol">Fútbol</string>
+    <string name="liga">Spanish La Liga</string>
+    <string name="adelante">Spanish Adelante</string>
+    <string name="noLiga">No League</string>
+
+    <string name="foto">Fotillo</string>
+
+</resources>

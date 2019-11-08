@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenJCique4</string>
+    <string name="validar">Validar</string>
+    <string name="examen1">Nota examen 1</string>
+    <string name="examen2">Nota examen 2</string>
+    <string name="examen3">Nota examen 3</string>
+    <string name="examen4">Nota examen 4</string>
+    <string name="practicas">Indica las prácticas entregadas</string>
+</resources>

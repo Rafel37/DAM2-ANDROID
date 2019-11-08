@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/futbol">
+        <menu>
+            <item
+                android:id="@+id/opc_liga"
+                android:icon="@drawable/spain"
+                android:title="@string/liga" />
+            <item
+                android:id="@+id/opc_adelante"
+                android:icon="@drawable/champion"
+                android:title="@string/adelante" />
+            <item
+                android:id="@+id/opc_noLiga"
+                android:icon="@drawable/world_cup"
+                android:title="@string/noLiga" />
+        </menu>
+    </item>
+
+</menu>

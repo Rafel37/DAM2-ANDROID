@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".MenuActivity"
+    android:id="@+id/Llpadremenuprincipal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Menu Principal"
+        android:textSize="40dp"
+        android:layout_marginBottom="30dp"
+        />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        >
+
+        <TableRow>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/ircalcular"
+                android:text="Calcular"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irformulario"
+                android:text="Formulario"
+                />
+
+        </TableRow>
+
+
+
+        <TableRow>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irgenerador"
+                android:text="Generador"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/ircalculadora"
+                android:text="Calculadora"
+                />
+
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irprimos"
+                android:text="Primos"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/ircartas"
+                android:text="Cartas"
+                />
+
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irElementosav"
+                android:text="Formulario spinner"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irLista"
+                android:text="Lista"
+                />
+
+        </TableRow>
+
+        <TableRow>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irMenuPractica"
+                android:text="Practica Lista"
+                />
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/irEjemploRecycler"
+                android:text="Recycler View"
+                />
+
+        </TableRow>
+
+    </TableLayout>
+
+
+
+
+
+
+
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="horizontal"
+    android:weightSum="1"
+    android:id="@+id/layoutlinear">
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+        <ImageView
+            android:id="@+id/camisetaRecycler"
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:scaleType="fitXY" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+            android:id="@+id/nombreRecycler"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="0.5"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:scaleType="fitXY"
+            android:layout_weight="0.5"
+            android:id="@+id/imagenEscudo"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:scaleType="fitXY"
+            android:layout_weight="0.5"
+            android:id="@+id/ImagenStadio"/>
+    </LinearLayout>
+
+</LinearLayout>

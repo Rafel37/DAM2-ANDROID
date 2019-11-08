@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string-array android:name="numeros">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array android:name="ligas">
+        <item>Liga Española</item>
+        <item>Premier</item>
+        <item>Calcio</item>
+    </string-array>
+
+    <string-array android:name="españa">
+        <item>Real Mdrid</item>
+        <item>Atleti</item>
+        <item>Barcelona</item>
+    </string-array>
+
+</resources>

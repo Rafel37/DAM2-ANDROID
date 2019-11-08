@@ -1,0 +1,13 @@
+<resources>
+    <string name="Random">Aleatorios</string>
+
+    <string name="mensaje">ERROR!! \nNo se ha introducido ningun numero</string>
+
+    <string name="mensajerango">ERROR!! \nNo se ha introducido rango de numeros aleatorios</string>
+    <string name="mensajerangomal">ERROR!! \nEl rango maximo es menor que el minimo</string>
+
+    <string name="mensajemax">ERROR!! \nNo se ha introducido numero máximo</string>
+    <string name="mensajemin">ERROR!! \nNo se ha introducido numero mínimo</string>
+    <string name="mensajenum">ERROR!! \nNo se ha introducido total de numeros </string>
+
+</resources>

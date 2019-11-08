@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="plataforma">
+        <menu>
+            <item
+                android:id="@+id/ps4"
+                android:icon="@drawable/ps"
+                android:title="ps4" />
+            <item
+                android:id="@+id/xbox"
+                android:icon="@drawable/xbox"
+                android:title="xbox" />
+            <item
+                android:id="@+id/pc"
+                android:icon="@drawable/pc"
+                android:title="pc" />
+        </menu>
+    </item>
+    <item android:title="Busqueda">
+        <menu>
+            <item
+                android:id="@+id/busqueda"
+                android:title="busqueda"
+                app:actionViewClass="android.widget.SearchView" />
+        </menu>
+    </item>
+</menu>
